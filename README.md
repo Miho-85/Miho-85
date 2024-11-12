@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miho-85
 - 👀 I’m interested in ... Gym history tanks 
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Currently I'm not looking for a project to collaborate but you can contact me if you have a project idea
 - 📫 How to reach me Contact me on my email: mihovpn@gmail.com
 - 😄 Pronouns: He/Him
