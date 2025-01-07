@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Miho-85
 - 👀 I’m interested in Gym, history, tanks 
 - 🌱 I’m currently learning C++
+- 🥭 Currently working on private discord bot
 - 📫 Contact me on my email: mihovpn@gmail.com
 - ⚡ Fun fact: Weightlifting is great
 
