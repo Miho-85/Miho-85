@@ -1,6 +1,6 @@
 # Hi, I'm Miho
 
-🎓 16 y/o engineer from **Montenegro**  
+🎓 16 y/o engineering student from **Montenegro**  
 🧠 Building my skills in **React**, **TypeScript**, **Embedded Systems**, and **C++**  
 💡 Founder of **Vertex Studios** – turning ideas into polished, real-world apps  
 🏗️ Currently working on my first app: **Clarity Timer**
