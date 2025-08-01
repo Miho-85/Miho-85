@@ -3,7 +3,7 @@
 🎓 16 y/o engineering student from **Montenegro**  
 🧠 Building my skills in **React**, **TypeScript**, **Embedded Systems**, and **C++**  
 💡 Founder of **Vertex Studios** – turning ideas into polished, real-world apps  
-🏗️ Currently working on my first app: **Clarity Timer**
+🏗️ Currently working on my first app: **Chronis**
 
 ## ⚡ Vertex Studios – Montenegro | Est. 2025
 
