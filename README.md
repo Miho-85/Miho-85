@@ -1,15 +1,7 @@
 # Hi, I'm Miho
 
-🎓 16 y/o engineering student from **Montenegro**  
-🧠 Building my skills in **React**, **TypeScript**, **Embedded Systems**, and **C++**  
-💡 Founder of **Vertex Studios** – turning ideas into polished, real-world apps  
-🏗️ Currently working on my first app: **Chronis**
-
-## ⚡ Vertex Studios – Montenegro | Est. 2025
-
-🚀 An indie initiative focused on creating meaningful digital tools  
-🎯 Goal: Help people stay productive, focused, and intentional  
-📱 **First product**: `Chronis` – a minimalist time blocking & focus app (coming soon)
+🎓 17 y/o engineering student from **Montenegro**  
+🧠 Building my skills in **Embedded Systems**, and **C++**  
 
 ## 🌍 About Me
 
