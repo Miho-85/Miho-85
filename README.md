@@ -5,7 +5,7 @@
 
 ## 🌍 About Me
 
-- 🇲🇪 From Montenegro, passionate about tech and design
+- 🇲🇪 From Montenegro
 - 🏎 Motorsports lover
 - 💪 Gym rat + aspiring engineer  
 - 📚 Student of electrical engineering for computer systems and networks
